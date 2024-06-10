@@ -1,0 +1,20 @@
+#first{background-color: aquamarine;margin: 50px;padding: 30px;
+}
+.mydiv{
+    background-color: darksalmon;padding: 30px;margin-top: 90px;
+}
+#main{text-align: center}
+.mymain{display: flex}
+#course1:hover{background-color: cyan;color: white;padding: 20px;}
+#course2:hover{
+    background-color: brown;color: white;padding: 20px;margin-left: 20px;margin-right: 20px;
+}
+#course3:hover{
+    background-color: darkcyan;color: white;padding: 20px;
+}
+#course{
+    text-align: center;
+}
+
+
+
